@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,3 +60,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 <img width="1440" alt="Screenshot 2024-11-05 at 9 00 29 PM" src="https://github.com/user-attachments/assets/adc17bb7-5363-4719-a6bd-75e0709e8d85">
 <img width="1440" alt="Screenshot 2024-11-05 at 9 00 21 PM" src="https://github.com/user-attachments/assets/da03040a-b39a-4786-b1e3-e079e2cb4a26">
 
+=======
+# ExplorePins
+>>>>>>> e5379aa1e42ab52589dba58c7082b867e37f03d3
